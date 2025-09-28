@@ -1,0 +1,29 @@
+# 🎵 Spotify Top 50 Songs Analysis
+
+## 📌 Overview
+This project analyzes the top 50 most-listened songs on Spotify to uncover trends in music popularity, artist performance, song characteristics, and listener preferences. The goal was to provide insights into song metrics, release trends, and genre popularity, supporting decision-making for music platforms and listeners.  
+
+## 🎯 Key Objectives
+- Analyze songs based on **release year, artist, genre, and popularity**.  
+- Evaluate song characteristics such as **duration, danceability, energy, and tempo**.  
+- Identify trends in music consumption and listener preferences.  
+- Create visualizations to highlight top-performing artists and songs.  
+- Provide insights into popular genres and patterns over time.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning & preprocessing  
+- **Power BI** → Interactive dashboards & visualizations  
+- **DAX Functions** → Calculations for metrics like average popularity, top artists, and song performance  
+
+## 📊 Process
+1. **Data Cleaning**: Standardized artist names, handled missing values, and formatted song metrics.  
+2. **Segmentation**: Grouped songs by genre, release year, and artist popularity.  
+3. **Visualization**: Built dashboards in Power BI to showcase top songs, genres, and key metrics.  
+4. **Analysis**: Evaluated trends in danceability, energy, and song duration across years and genres.  
+5. **Insights**: Highlighted top-performing artists, emerging genres, and popular song characteristics.  
+
+## 📈 Outcome
+- Identified the most popular songs and artists over time.  
+- Provided insights into listener preferences based on genre, tempo, and danceability.  
+- Delivered interactive dashboards for quick exploration of song trends.  
+- Enabled data-driven insights for music analysis and recommendation strategies.  
